@@ -1,0 +1,10 @@
+${AnsiColor.BRIGHT_BLUE}
+ __   __     ______     __  __     ______  
+/\ "-.\ \   /\  ___\   /\_\_\_\   /\__  _\ 
+\ \ \-.  \  \ \  __\   \/_/\_\/_  \/_/\ \/ 
+ \ \_\\"\_\  \ \_____\   /\_\/\_\    \ \_\ 
+  \/_/ \/_/   \/_____/   \/_/\/_/     \/_/ 
+                                           
+${AnsiColor.DEFAULT}
+Spring Boot Version: ${AnsiColor.BRIGHT_RED}${spring-boot.version}
+${AnsiColor.DEFAULT}
